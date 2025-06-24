@@ -57,6 +57,9 @@ By combining **computer vision** and **natural language processing (NLP)**, the 
 ---
 
 ## 📷 Screenshots
+[images/output1.png]
+
+[images/output2.png]
 
 
 
